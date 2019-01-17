@@ -13,7 +13,7 @@
     "extra": {
     },
     "autoload": {
-        "classmap": ["config/"],
+        "classmap": [],
         "psr-4": {
             "xuying\\ueditor\\": "src/"
         },
