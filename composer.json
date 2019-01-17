@@ -1,0 +1,24 @@
+{
+    "name": "xuying/ueditor",
+    "description": "baidu ueditor",
+    "authors": [
+        {
+            "name": "yadan",
+            "email": "15889984263@163.com"
+        }
+    ],
+    "require": {
+
+    },
+    "extra": {
+    },
+    "autoload": {
+        "classmap": ["config/"],
+        "psr-4": {
+            "xuying\\ueditor\\": "src/"
+        },
+        "files": [
+            "src/index.php"
+        ]
+    }
+}
